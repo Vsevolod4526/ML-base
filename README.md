@@ -1,0 +1,1 @@
+![Моя визуализация](gigLogistRegression.gif)
